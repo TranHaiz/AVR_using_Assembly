@@ -1,0 +1,34 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>D:\ATmega328P\Codes\Ngattrong\Internalinterupt\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>D:/7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc</DIR>
+  <DIR>D:\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>D:\ATmega328P\Codes\Ngattrong\Internalinterupt\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>D:/7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc\m328pdef.inc</FILE>
+  <FILE>D:/7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc\M328pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>D:\ATmega328P\Codes\Ngattrong\Internalinterupt\Debug\Internalinterupt.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Internalinterupt.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Internalinterupt.map</FILE>
+  <FILE>Internalinterupt.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <Main><FILE>D:\ATmega328P\Codes\Ngattrong\Internalinterupt\main.asm</FILE><LINE>20</LINE></Main>
+  <Timer1ISR><FILE>D:\ATmega328P\Codes\Ngattrong\Internalinterupt\main.asm</FILE><LINE>55</LINE></Timer1ISR>
+  <Here><FILE>D:\ATmega328P\Codes\Ngattrong\Internalinterupt\main.asm</FILE><LINE>48</LINE></Here>
+  <Delay2><FILE>D:\ATmega328P\Codes\Ngattrong\Internalinterupt\main.asm</FILE><LINE>66</LINE></Delay2>
+  <delay1><FILE>D:\ATmega328P\Codes\Ngattrong\Internalinterupt\main.asm</FILE><LINE>78</LINE></delay1>
+  <L1><FILE>D:\ATmega328P\Codes\Ngattrong\Internalinterupt\main.asm</FILE><LINE>70</LINE></L1>
+  <L2><FILE>D:\ATmega328P\Codes\Ngattrong\Internalinterupt\main.asm</FILE><LINE>82</LINE></L2>
+ </LABELS>
+</ASSEMBLER_INFO>

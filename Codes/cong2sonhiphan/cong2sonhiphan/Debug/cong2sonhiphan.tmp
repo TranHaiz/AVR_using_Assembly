@@ -1,0 +1,32 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>D:\ATmega328P\Codes\cong2sonhiphan\cong2sonhiphan\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>D:/7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc</DIR>
+  <DIR>D:\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>D:\ATmega328P\Codes\cong2sonhiphan\cong2sonhiphan\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>D:/7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc\m328pdef.inc</FILE>
+  <FILE>D:/7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc\m328Pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>D:\ATmega328P\Codes\cong2sonhiphan\cong2sonhiphan\Debug\cong2sonhiphan.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>cong2sonhiphan.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>cong2sonhiphan.map</FILE>
+  <FILE>cong2sonhiphan.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <start><FILE>D:\ATmega328P\Codes\cong2sonhiphan\cong2sonhiphan\main.asm</FILE><LINE>14</LINE></start>
+  <BCD><FILE>D:\ATmega328P\Codes\cong2sonhiphan\cong2sonhiphan\main.asm</FILE><LINE>20</LINE></BCD>
+  <bBCD8_1><FILE>D:\ATmega328P\Codes\cong2sonhiphan\cong2sonhiphan\main.asm</FILE><LINE>22</LINE></bBCD8_1>
+  <bBCD8_2><FILE>D:\ATmega328P\Codes\cong2sonhiphan\cong2sonhiphan\main.asm</FILE><LINE>27</LINE></bBCD8_2>
+  <hienthi><FILE>D:\ATmega328P\Codes\cong2sonhiphan\cong2sonhiphan\main.asm</FILE><LINE>30</LINE></hienthi>
+ </LABELS>
+</ASSEMBLER_INFO>

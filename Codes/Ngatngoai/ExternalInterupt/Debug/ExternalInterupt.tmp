@@ -1,0 +1,33 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\PROBOOK\Documents\Atmel Studio\7.0\ExternalInterupt\ExternalInterupt\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>D:/7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc</DIR>
+  <DIR>D:\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\PROBOOK\Documents\Atmel Studio\7.0\ExternalInterupt\ExternalInterupt\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>D:/7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc\m328pdef.inc</FILE>
+  <FILE>D:/7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc\M328Pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\PROBOOK\Documents\Atmel Studio\7.0\ExternalInterupt\ExternalInterupt\Debug\ExternalInterupt.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>ExternalInterupt.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>ExternalInterupt.map</FILE>
+  <FILE>ExternalInterupt.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <Main><FILE>C:\Users\PROBOOK\Documents\Atmel Studio\7.0\ExternalInterupt\ExternalInterupt\main.asm</FILE><LINE>18</LINE></Main>
+  <externalISR0><FILE>C:\Users\PROBOOK\Documents\Atmel Studio\7.0\ExternalInterupt\ExternalInterupt\main.asm</FILE><LINE>45</LINE></externalISR0>
+  <Repeat><FILE>C:\Users\PROBOOK\Documents\Atmel Studio\7.0\ExternalInterupt\ExternalInterupt\main.asm</FILE><LINE>36</LINE></Repeat>
+  <delay1><FILE>C:\Users\PROBOOK\Documents\Atmel Studio\7.0\ExternalInterupt\ExternalInterupt\main.asm</FILE><LINE>57</LINE></delay1>
+  <Reset><FILE>C:\Users\PROBOOK\Documents\Atmel Studio\7.0\ExternalInterupt\ExternalInterupt\main.asm</FILE><LINE>42</LINE></Reset>
+  <L1><FILE>C:\Users\PROBOOK\Documents\Atmel Studio\7.0\ExternalInterupt\ExternalInterupt\main.asm</FILE><LINE>61</LINE></L1>
+ </LABELS>
+</ASSEMBLER_INFO>

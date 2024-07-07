@@ -1,0 +1,30 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.57</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\Administrator\Downloads\atmega328p\code\truyen 1 ky tu\AssemblerApplication1\AssemblerApplication1\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\Atmel Toolchain\AVR Assembler\Native\2.1.1175\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Administrator\Downloads\atmega328p\code\truyen 1 ky tu\AssemblerApplication1\AssemblerApplication1\AssemblerApplication1.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\Atmel Toolchain\AVR Assembler\Native\2.1.1175\avrassembler\Include\m328Pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Administrator\Downloads\atmega328p\code\truyen 1 ky tu\AssemblerApplication1\AssemblerApplication1\Debug/AssemblerApplication1.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>AssemblerApplication1.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>AssemblerApplication1.map</FILE>
+  <FILE>AssemblerApplication1.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <start><FILE>C:\Users\Administrator\Downloads\atmega328p\code\truyen 1 ky tu\AssemblerApplication1\AssemblerApplication1\AssemblerApplication1.asm</FILE><LINE>4</LINE></start>
+  <TX><FILE>C:\Users\Administrator\Downloads\atmega328p\code\truyen 1 ky tu\AssemblerApplication1\AssemblerApplication1\AssemblerApplication1.asm</FILE><LINE>24</LINE></TX>
+  <wait><FILE>C:\Users\Administrator\Downloads\atmega328p\code\truyen 1 ky tu\AssemblerApplication1\AssemblerApplication1\AssemblerApplication1.asm</FILE><LINE>22</LINE></wait>
+  <del><FILE>C:\Users\Administrator\Downloads\atmega328p\code\truyen 1 ky tu\AssemblerApplication1\AssemblerApplication1\AssemblerApplication1.asm</FILE><LINE>28</LINE></del>
+  <L1><FILE>C:\Users\Administrator\Downloads\atmega328p\code\truyen 1 ky tu\AssemblerApplication1\AssemblerApplication1\AssemblerApplication1.asm</FILE><LINE>32</LINE></L1>
+ </LABELS>
+</ASSEMBLER_INFO>

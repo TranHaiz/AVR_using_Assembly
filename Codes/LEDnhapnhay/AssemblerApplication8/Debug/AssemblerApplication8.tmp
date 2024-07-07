@@ -1,0 +1,34 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\LENOVO\Documents\Atmel Studio\7.0\AssemblerApplication8\AssemblerApplication8\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\LENOVO\Documents\Atmel Studio\7.0\AssemblerApplication8\AssemblerApplication8\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc\m328pdef.inc</FILE>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc\m328Pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\LENOVO\Documents\Atmel Studio\7.0\AssemblerApplication8\AssemblerApplication8\Debug\AssemblerApplication8.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>AssemblerApplication8.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>AssemblerApplication8.map</FILE>
+  <FILE>AssemblerApplication8.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <start><FILE>C:\Users\LENOVO\Documents\Atmel Studio\7.0\AssemblerApplication8\AssemblerApplication8\main.asm</FILE><LINE>14</LINE></start>
+  <HERE><FILE>C:\Users\LENOVO\Documents\Atmel Studio\7.0\AssemblerApplication8\AssemblerApplication8\main.asm</FILE><LINE>25</LINE></HERE>
+  <hienthi><FILE>C:\Users\LENOVO\Documents\Atmel Studio\7.0\AssemblerApplication8\AssemblerApplication8\main.asm</FILE><LINE>29</LINE></hienthi>
+  <over><FILE>C:\Users\LENOVO\Documents\Atmel Studio\7.0\AssemblerApplication8\AssemblerApplication8\main.asm</FILE><LINE>43</LINE></over>
+  <Delay><FILE>C:\Users\LENOVO\Documents\Atmel Studio\7.0\AssemblerApplication8\AssemblerApplication8\main.asm</FILE><LINE>35</LINE></Delay>
+  <loop1><FILE>C:\Users\LENOVO\Documents\Atmel Studio\7.0\AssemblerApplication8\AssemblerApplication8\main.asm</FILE><LINE>36</LINE></loop1>
+  <loop2><FILE>C:\Users\LENOVO\Documents\Atmel Studio\7.0\AssemblerApplication8\AssemblerApplication8\main.asm</FILE><LINE>37</LINE></loop2>
+ </LABELS>
+</ASSEMBLER_INFO>
